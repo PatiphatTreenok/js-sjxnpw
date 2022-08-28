@@ -1,0 +1,11 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@line/liff": "^2.21.0",
+    "@types/file-saver": "^2.0.1",
+    "@types/moment": "^2.13.0"
+    
+  }
+}
