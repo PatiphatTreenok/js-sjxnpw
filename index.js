@@ -48,7 +48,7 @@ async function main() {
   //console.log(liff.getOS());
   //liff.login();
   // Initialize LIFF app
-  await liff.init({ liffId: '1657418595-QLr34KgD' });
+  await liff.init({ liffId: '1657327744-ypQEGeBp' });
   if (!liff.isLoggedIn) {
     liff.login();
   }
